@@ -7,7 +7,7 @@ const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("ser-bot");
 const {
   Module,
   commands
@@ -33,7 +33,7 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'https://github.com/Das-x5/ser'
     }
 }, {
   urlButton: {
